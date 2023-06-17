@@ -4,7 +4,7 @@
 
 
 <a href="https://www.linkedin.com/in/bulbul-arora-949292ab/">
-<img align="left" alt="Bulbul Arora" width="22px" src="https://www.linkedin.com/in/bulbul-arora-949292ab/" />
+<img align="left" alt="Bulbul Arora" width="22px" src="https://icons8.com/icon/8808/linkedin" />
 </a>
 
 <br />
