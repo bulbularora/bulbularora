@@ -15,7 +15,7 @@ Hi, I'm Bulbul Arora🙌! I'm currently a Software Systems Engineering student a
 Let's collaborate and build impactful software solutions together.
 
 
-<img align="right" alt="GIF" width="60%" src="https://assets.hongkiat.com/uploads/programming-jokes/joke-programmer-count.jpg" />
+<img align="right" alt="GIF" width="70%" src="https://assets.hongkiat.com/uploads/programming-jokes/joke-programmer-count.jpg" />
 
 
 
