@@ -3,7 +3,7 @@
 <br/>
 
 
-<a href="https://www.linkedin.com/in/bulbul-arora-949292ab/">
+<a target="_blank" href="https://www.linkedin.com/in/bulbul-arora-949292ab/">
 <img align="left" alt="Bulbul Arora" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />
 </a>
 
