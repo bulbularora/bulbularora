@@ -20,8 +20,8 @@ Let's collaborate and build impactful software solutions together.
 <br/><br/>
 
 - 🔭 I’m a Software Systems Engineer
-- 🌱 I’m currently learning Flutter
-- 👯 Part of the Developer Community.
+- 👯 A Woman in Tech
+- 👯 Part of the Developer Community
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Connect with me on LinkedIn!](https://www.linkedin.com/in/bulbul-arora-949292ab/)
 - 📝[Portfolio](https://bulbularora.github.io/)
