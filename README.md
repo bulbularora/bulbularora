@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Bulbul!](https://bulbularora.github.io/)
+## Hello World 👋 It's [Bulbul!](https://bulbularora.github.io/)
 
 <br/>
 
