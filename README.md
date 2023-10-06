@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm Bulbul Arora🙌! I'm a Software Systems Engineer who graduated in August 2023. My expertise lies in front-end, back-end, and full-stack development. I am passionate about creating innovative solutions, and I am actively seeking new graduate Software Engineering roles to kick-start my career. With a solid foundation in programming languages like Java, C++, and Python, as well as proficiency in web development technologies such as HTML, CSS, and JavaScript, I am ready to contribute to dynamic and challenging projects. Check out some of my personal and class projects! 
+Hi, I'm Bulbul Arora 🙌! I'm a Software Systems Engineer who graduated in August 2023. My expertise lies in front-end, back-end, and full-stack development. I am passionate about creating innovative solutions, and I am actively seeking new graduate Software Engineering roles to kick-start my career. With a solid foundation in programming languages like Java, C++, and Python, as well as proficiency in web development technologies such as HTML, CSS, and JavaScript, I am ready to contribute to dynamic and challenging projects. Check out some of my personal and class projects! 
 Let's collaborate and build impactful software solutions together.
 <br/>
 
@@ -24,7 +24,7 @@ Let's collaborate and build impactful software solutions together.
 - 👯 Part of the Developer Community
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Connect with me on LinkedIn!](https://www.linkedin.com/in/bulbul-arora-949292ab/)
-- 📝[Portfolio](https://bulbularora.github.io/)
+- 📝 <b> [Portfolio](https://bulbularora.github.io/) </b>
 
 
 
