@@ -87,5 +87,4 @@ Let's collaborate and build impactful software solutions together.
 </table>
 
 
-[![Bulbul's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulbularora&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Bulbul's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulbularora&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
