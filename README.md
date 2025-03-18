@@ -15,6 +15,7 @@ Hi, I'm Bulbul Arora 🙌! I'm a Software Systems Engineer who graduated in Augu
 Let's collaborate and build impactful software solutions together.
 <br/>
 
+<div>
 <img align="right" display="flex" alt="GIF" width="40%" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/python-2.gif" />
 
 <br/><br/>
@@ -26,7 +27,7 @@ Let's collaborate and build impactful software solutions together.
 - 📫 How to reach me: [Connect with me on LinkedIn!](https://www.linkedin.com/in/bulbul-arora-949292ab/)
 - 📝 <b> [Portfolio](https://bulbularora.github.io/) </b>
 
-
+</div>
 
 <br/><br/>
 
