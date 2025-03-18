@@ -16,6 +16,7 @@ Let's collaborate and build impactful software solutions together.
 <br/>
 
 <div>
+	<br/>
 <img align="right" display="flex" alt="GIF" width="40%" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/python-2.gif" />
 
 
